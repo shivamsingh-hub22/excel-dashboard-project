@@ -14,3 +14,9 @@ Created a dashboard using Excel and Power Query.
 
 ## Outcome
 Generated insights and improved data understanding.
+
+## Project Preview
+
+This dashboard shows sales analysis using pivot tables and charts.
+
+![Dashboard](dashboard.png)
